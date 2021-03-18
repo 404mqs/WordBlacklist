@@ -1,7 +1,5 @@
 ﻿using Rocket.API.Collections;
 using Rocket.Core.Plugins;
-using Rocket.Unturned.Chat;
-using Rocket.Unturned.Player;
 using SDG.Unturned;
 using System.Linq;
 using UnityEngine;
@@ -63,5 +61,3 @@ namespace WordBlacklist
 
     }
 }
-
-
